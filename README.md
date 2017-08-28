@@ -11,5 +11,5 @@ Some techniques of visualizing results of static code analysis.
 Visual Studio 2010 - C#
 
 # Results:
-![fig](screens/3.jpg)
-![fig](screens/rel3.jpg)
+![fig](Screens/3.jpg)
+![fig](Screens/rel3.jpg)
