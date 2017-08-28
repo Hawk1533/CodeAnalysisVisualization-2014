@@ -1,0 +1,67 @@
+C:\Users\Антон\Documents\Diplom_New1\Code_Versions\Diplom10_Stable\Code_Module2\Caldara Visualisation\Visualiser\obj\x86\Release\Caldara_Visualisation.Properties.Resources.resources
+C:\Users\Антон\Documents\Diplom_New1\Code_Versions\Diplom10_Stable\Code_Module2\Caldara Visualisation\Visualiser\obj\x86\Release\Caldara_Visualisation.csproj.GenerateResource.Cache
+C:\Users\Антон\Documents\Diplom_New1\Code_Versions\Diplom10_Stable\Code_Module2\Caldara Visualisation\Visualiser\obj\x86\Release\Visualiser.exe
+C:\Users\Антон\Documents\Diplom_New1\Code_Versions\Diplom10_Stable\Code_Module2\Caldara Visualisation\Visualiser\obj\x86\Release\Caldara_Visualisation.csprojResolveAssemblyReference.cache
+C:\Users\Антон\Documents\Diplom_New1\Code_Versions\Diplom10_Stable\Code_Module2\Caldara Visualisation\Visualiser\obj\x86\Release\Caldara_Visualisation.Relations.resources
+C:\Users\Антон\Documents\Diplom_New1\Code_Versions\Diplom10_Stable\Code_Module2\Caldara Visualisation\Visualiser\bin\Release\Visualiser.exe
+C:\Users\Антон\Documents\Diplom_New1\Code_Versions\Diplom10_Stable\Code_Module2\Caldara Visualisation\Visualiser\bin\Release\Visualiser.pdb
+C:\Users\Антон\Documents\Diplom_New1\Code_Versions\Diplom10_Stable\Code_Module2\Caldara Visualisation\Visualiser\obj\x86\Release\Visualiser.pdb
+G:\Diplom_New1\Code_Versions\Diplom10_Stable\Code_Module2\Caldara Visualisation\Visualiser\obj\x86\Release\Visualiser.exe
+G:\Diplom_New1\Code_Versions\Diplom10_Stable\Code_Module2\Caldara Visualisation\Visualiser\obj\x86\Release\Visualiser.pdb
+C:\Andrew\School\10\IT\Diplom\Code_Versions\All\Diplom1\Code_Versions\Diplom10_Stable\Code_Module2\Caldara Visualisation\Visualiser\obj\x86\Release\Visualiser.exe
+C:\Andrew\School\10\IT\Diplom\Code_Versions\All\Diplom1\Code_Versions\Diplom10_Stable\Code_Module2\Caldara Visualisation\Visualiser\obj\x86\Release\Visualiser.pdb
+C:\Andrew\School\10\IT\Diplom\Code_Versions\All\Diplom1\Code_Versions\Diplom10_Stable\Code_Module2\Caldara Visualisation\Visualiser\bin\Release\Visualiser.exe
+C:\Andrew\School\10\IT\Diplom\Code_Versions\All\Diplom1\Code_Versions\Diplom10_Stable\Code_Module2\Caldara Visualisation\Visualiser\bin\Release\Visualiser.pdb
+C:\Andrew\School\10\IT\Diplom\Code_Versions\All\Diplom1\Code_Versions\Diplom10_Stable\Code_Module2\Caldara Visualisation\Visualiser\obj\x86\Release\Caldara_Visualisation.csprojResolveAssemblyReference.cache
+C:\Andrew\School\10\IT\Diplom\Code_Versions\All\Diplom1\Code_Versions\Diplom10_Stable\Code_Module2\Caldara Visualisation\Visualiser\obj\x86\Release\Caldara_Visualisation.Relations.resources
+C:\Andrew\School\10\IT\Diplom\Code_Versions\All\Diplom1\Code_Versions\Diplom10_Stable\Code_Module2\Caldara Visualisation\Visualiser\obj\x86\Release\Caldara_Visualisation.Properties.Resources.resources
+C:\Andrew\School\10\IT\Diplom\Code_Versions\All\Diplom1\Code_Versions\Diplom10_Stable\Code_Module2\Caldara Visualisation\Visualiser\obj\x86\Release\Caldara_Visualisation.csproj.GenerateResource.Cache
+C:\Users\Антон\Documents\Diplom17_Merge\Diplom17_Merge\Visualiser\obj\x86\Release\Visualiser.exe
+C:\Users\Антон\Documents\Diplom17_Merge\Diplom17_Merge\Visualiser\obj\x86\Release\Visualiser.pdb
+C:\Users\Антон\Documents\Diplom17_Merge\Diplom17_Merge\Visualiser\bin\Release\Visualiser.exe
+C:\Users\Антон\Documents\Diplom17_Merge\Diplom17_Merge\Visualiser\bin\Release\Visualiser.pdb
+C:\Users\Антон\Documents\Diplom17_Merge\Diplom17_Merge\Visualiser\obj\x86\Release\Caldara_Visualisation.csprojResolveAssemblyReference.cache
+C:\Users\Антон\Documents\Diplom17_Merge\Diplom17_Merge\Visualiser\obj\x86\Release\Caldara_Visualisation.Relations.resources
+C:\Users\Антон\Documents\Diplom17_Merge\Diplom17_Merge\Visualiser\obj\x86\Release\Caldara_Visualisation.Properties.Resources.resources
+C:\Users\Антон\Documents\Diplom17_Merge\Diplom17_Merge\Visualiser\obj\x86\Release\Caldara_Visualisation.csproj.GenerateResource.Cache
+C:\Users\Антон\Documents\Diplom17_Merge.new\Diplom17_Merge\Visualiser\bin\Release\Visualiser.exe
+C:\Users\Антон\Documents\Diplom17_Merge.new\Diplom17_Merge\Visualiser\bin\Release\Visualiser.pdb
+C:\Users\Антон\Documents\Diplom17_Merge.new\Diplom17_Merge\Visualiser\obj\x86\Release\Caldara_Visualisation.csprojResolveAssemblyReference.cache
+C:\Users\Антон\Documents\Diplom17_Merge.new\Diplom17_Merge\Visualiser\obj\x86\Release\Caldara_Visualisation.Relations.resources
+C:\Users\Антон\Documents\Diplom17_Merge.new\Diplom17_Merge\Visualiser\obj\x86\Release\Caldara_Visualisation.Properties.Resources.resources
+C:\Users\Антон\Documents\Diplom17_Merge.new\Diplom17_Merge\Visualiser\obj\x86\Release\Caldara_Visualisation.csproj.GenerateResource.Cache
+C:\Users\Антон\Documents\Diplom17_Merge.new\Diplom17_Merge\Visualiser\obj\x86\Release\Visualiser.exe
+C:\Users\Антон\Documents\Diplom17_Merge.new\Diplom17_Merge\Visualiser\obj\x86\Release\Visualiser.pdb
+C:\Users\Антон\Documents\Diplom17_Merge.new\Diplom17_Merge\Visualiser\obj\x86\Release\Caldara_Visualisation.DataBase.resources
+C:\Users\Антон\Documents\Diplom17_Merge.new\Diplom17_Merge\Visualiser\obj\x86\Release\Caldara_Visualisation.Metrics.resources
+C:\Users\Антон\Documents\Diplom17_Merge (1)\Diplom17_Merge\Diplom19_Merge\Diplom19_Merge\Visualiser\bin\Release\Visualiser.exe
+C:\Users\Антон\Documents\Diplom17_Merge (1)\Diplom17_Merge\Diplom19_Merge\Diplom19_Merge\Visualiser\bin\Release\Visualiser.pdb
+C:\Users\Антон\Documents\Diplom17_Merge (1)\Diplom17_Merge\Diplom19_Merge\Diplom19_Merge\Visualiser\obj\x86\Release\Caldara_Visualisation.csprojResolveAssemblyReference.cache
+C:\Users\Антон\Documents\Diplom17_Merge (1)\Diplom17_Merge\Diplom19_Merge\Diplom19_Merge\Visualiser\obj\x86\Release\Caldara_Visualisation.DataBase.resources
+C:\Users\Антон\Documents\Diplom17_Merge (1)\Diplom17_Merge\Diplom19_Merge\Diplom19_Merge\Visualiser\obj\x86\Release\Caldara_Visualisation.Metrics.resources
+C:\Users\Антон\Documents\Diplom17_Merge (1)\Diplom17_Merge\Diplom19_Merge\Diplom19_Merge\Visualiser\obj\x86\Release\Caldara_Visualisation.Relations.resources
+C:\Users\Антон\Documents\Diplom17_Merge (1)\Diplom17_Merge\Diplom19_Merge\Diplom19_Merge\Visualiser\obj\x86\Release\Caldara_Visualisation.Properties.Resources.resources
+C:\Users\Антон\Documents\Diplom17_Merge (1)\Diplom17_Merge\Diplom19_Merge\Diplom19_Merge\Visualiser\obj\x86\Release\Caldara_Visualisation.csproj.GenerateResource.Cache
+C:\Users\Антон\Documents\Diplom17_Merge (1)\Diplom17_Merge\Diplom19_Merge\Diplom19_Merge\Visualiser\obj\x86\Release\Visualiser.exe
+C:\Users\Антон\Documents\Diplom17_Merge (1)\Diplom17_Merge\Diplom19_Merge\Diplom19_Merge\Visualiser\obj\x86\Release\Visualiser.pdb
+F:\Diplom_VS_Final\Visualiser\obj\x86\Release\Visualiser.exe
+F:\Diplom_VS_Final\Visualiser\obj\x86\Release\Visualiser.pdb
+F:\Diplom_VS_Final\Visualiser\bin\Release\Visualiser.exe
+F:\Diplom_VS_Final\Visualiser\bin\Release\Visualiser.pdb
+F:\Diplom_VS_Final\Visualiser\obj\x86\Release\ResolveAssemblyReference.cache
+F:\Diplom_VS_Final\Visualiser\obj\x86\Release\Caldara_Visualisation.DataBase.resources
+F:\Diplom_VS_Final\Visualiser\obj\x86\Release\Caldara_Visualisation.Metrics.resources
+F:\Diplom_VS_Final\Visualiser\obj\x86\Release\Caldara_Visualisation.Relations.resources
+F:\Diplom_VS_Final\Visualiser\obj\x86\Release\Caldara_Visualisation.Properties.Resources.resources
+F:\Diplom_VS_Final\Visualiser\obj\x86\Release\GenerateResource.read.1.tlog
+F:\Diplom_VS_Final\Visualiser\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Andrew\School\11\Diplom\Defence\Diplom_VS_Final\Visualiser\obj\x86\Release\Visualiser.exe
+C:\Andrew\School\11\Diplom\Defence\Diplom_VS_Final\Visualiser\obj\x86\Release\Visualiser.pdb
+C:\Andrew\School\11\Diplom\Defence\Diplom_VS_Final\Visualiser\bin\Release\Visualiser.exe
+C:\Andrew\School\11\Diplom\Defence\Diplom_VS_Final\Visualiser\bin\Release\Visualiser.pdb
+C:\Andrew\School\11\Diplom\Defence\Diplom_VS_Final\Visualiser\obj\x86\Release\Caldara_Visualisation.csprojResolveAssemblyReference.cache
+C:\Andrew\School\11\Diplom\Defence\Diplom_VS_Final\Visualiser\obj\x86\Release\Caldara_Visualisation.DataBase.resources
+C:\Andrew\School\11\Diplom\Defence\Diplom_VS_Final\Visualiser\obj\x86\Release\Caldara_Visualisation.Metrics.resources
+C:\Andrew\School\11\Diplom\Defence\Diplom_VS_Final\Visualiser\obj\x86\Release\Caldara_Visualisation.Relations.resources
+C:\Andrew\School\11\Diplom\Defence\Diplom_VS_Final\Visualiser\obj\x86\Release\Caldara_Visualisation.Properties.Resources.resources
+C:\Andrew\School\11\Diplom\Defence\Diplom_VS_Final\Visualiser\obj\x86\Release\Caldara_Visualisation.csproj.GenerateResource.Cache

@@ -1,0 +1,31 @@
+C:\Users\Антон\Documents\Diplom\Code\Caldara Visualisation\Caldara Visualisation\Visualiser\bin\Release\Visualiser.exe
+C:\Users\Антон\Documents\Diplom\Code\Caldara Visualisation\Caldara Visualisation\Visualiser\bin\Release\Visualiser.pdb
+C:\Users\Антон\Documents\Diplom\Code\Caldara Visualisation\Caldara Visualisation\Visualiser\obj\x86\Release\Visualiser.Properties.Resources.resources
+C:\Users\Антон\Documents\Diplom\Code\Caldara Visualisation\Caldara Visualisation\Visualiser\obj\x86\Release\Visualiser.csproj.GenerateResource.Cache
+C:\Users\Антон\Documents\Diplom\Code\Caldara Visualisation\Caldara Visualisation\Visualiser\obj\x86\Release\Visualiser.exe
+C:\Users\Антон\Documents\Diplom\Code\Caldara Visualisation\Caldara Visualisation\Visualiser\obj\x86\Release\Visualiser.pdb
+Z:\Diplom_New\Diplom\Code\Caldara Visualisation\Caldara Visualisation\Visualiser\obj\x86\Release\Visualiser.exe
+Z:\Diplom_New\Diplom\Code\Caldara Visualisation\Caldara Visualisation\Visualiser\obj\x86\Release\Visualiser.pdb
+Z:\Diplom_New\Diplom\Code\Caldara Visualisation\Caldara Visualisation\Visualiser\bin\Release\Visualiser.exe
+Z:\Diplom_New\Diplom\Code\Caldara Visualisation\Caldara Visualisation\Visualiser\bin\Release\Visualiser.pdb
+Z:\Diplom_New\Diplom\Code\Caldara Visualisation\Caldara Visualisation\Visualiser\obj\x86\Release\ResolveAssemblyReference.cache
+Z:\Diplom_New\Diplom\Code\Caldara Visualisation\Caldara Visualisation\Visualiser\obj\x86\Release\Visualiser.Properties.Resources.resources
+Z:\Diplom_New\Diplom\Code\Caldara Visualisation\Caldara Visualisation\Visualiser\obj\x86\Release\GenerateResource.read.1.tlog
+Z:\Diplom_New\Diplom\Code\Caldara Visualisation\Caldara Visualisation\Visualiser\obj\x86\Release\GenerateResource.write.1.tlog
+Z:\Diplom_New\Diplom\Code\Caldara Visualisation\Caldara Visualisation\Visualiser\obj\x86\Release\Visualiser.Form1.resources
+C:\Users\Антон\Documents\Diplom_New\Diplom\Code\Caldara Visualisation\Caldara Visualisation\Visualiser\bin\Release\Visualiser.exe
+C:\Users\Антон\Documents\Diplom_New\Diplom\Code\Caldara Visualisation\Caldara Visualisation\Visualiser\bin\Release\Visualiser.pdb
+C:\Users\Антон\Documents\Diplom_New\Diplom\Code\Caldara Visualisation\Caldara Visualisation\Visualiser\obj\x86\Release\Visualiser.Form1.resources
+C:\Users\Антон\Documents\Diplom_New\Diplom\Code\Caldara Visualisation\Caldara Visualisation\Visualiser\obj\x86\Release\Visualiser.Properties.Resources.resources
+C:\Users\Антон\Documents\Diplom_New\Diplom\Code\Caldara Visualisation\Caldara Visualisation\Visualiser\obj\x86\Release\Visualiser.csproj.GenerateResource.Cache
+C:\Users\Антон\Documents\Diplom_New\Diplom\Code\Caldara Visualisation\Caldara Visualisation\Visualiser\obj\x86\Release\Visualiser.exe
+C:\Users\Антон\Documents\Diplom_New\Diplom\Code\Caldara Visualisation\Caldara Visualisation\Visualiser\obj\x86\Release\Visualiser.pdb
+C:\Users\Антон\Documents\Diplom_New1\Code_Versions\Diplom10_Stable\Code_Module2\Caldara Visualisation\Visualiser\obj\x86\Release\Visualiser.Form1.resources
+C:\Users\Антон\Documents\Diplom_New1\Code_Versions\Diplom10_Stable\Code_Module2\Caldara Visualisation\Visualiser\obj\x86\Release\Visualiser.Properties.Resources.resources
+C:\Users\Антон\Documents\Diplom_New1\Code_Versions\Diplom10_Stable\Code_Module2\Caldara Visualisation\Visualiser\obj\x86\Release\Visualiser.csproj.GenerateResource.Cache
+C:\Users\Антон\Documents\Diplom_New1\Code_Versions\Diplom10_Stable\Code_Module2\Caldara Visualisation\Visualiser\obj\x86\Release\Visualiser.exe
+C:\Users\Антон\Documents\Diplom_New1\Code_Versions\Diplom10_Stable\Code_Module2\Caldara Visualisation\Visualiser\obj\x86\Release\Visualiser.pdb
+C:\Users\Антон\Documents\Diplom_New1\Code_Versions\Diplom10_Stable\Code_Module2\Caldara Visualisation\Visualiser\bin\Release\Visualiser.exe
+C:\Users\Антон\Documents\Diplom_New1\Code_Versions\Diplom10_Stable\Code_Module2\Caldara Visualisation\Visualiser\bin\Release\Visualiser.pdb
+C:\Users\Антон\Documents\Diplom_New1\Code_Versions\Diplom10_Stable\Code_Module2\Caldara Visualisation\Visualiser\obj\x86\Release\Caldara_Visualisation.Form1.resources
+C:\Users\Антон\Documents\Diplom_New1\Code_Versions\Diplom10_Stable\Code_Module2\Caldara Visualisation\Visualiser\obj\x86\Release\Caldara_Visualisation.Properties.Resources.resources
